@@ -1,5 +1,3 @@
-"# WorldSim-Python" 
-
 # Turn based world simulator in Python
 
 Turn based world simulator for Object Oriented Programming project at GUT
