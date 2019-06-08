@@ -6,6 +6,21 @@ Turn based world simulator for Object Oriented Programming project at GUT
 
 Tkinter
 
+## Key bindings
+
+- Arrow Up
+  - Move upwards
+- Arrow Right
+  - Move right
+- Arrow Down
+  - Move down
+- Arrow Left
+  - Move left
+- R
+  - Activate super skill
+- Space
+  - Perform round
+
 ## Colours of organisms
 
 - Antelope
@@ -32,3 +47,4 @@ Tkinter
   - dark green
 - CyberSheep
   - blue violet
+
