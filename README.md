@@ -19,16 +19,16 @@ Tkinter
 - R
   - Activate super skill
 - Space
-  - Perform round
+  - End turn
 
-## Colours of organisms
+## Colors of organisms
 
 - Antelope
   - saddle brown
 - SosnowskyBorscht
   - magenta2
 - Human
-  - DarkGoldenrod4 / red ( depends on skill activated )
+  - DarkGoldenrod4 / red ( switches if special skill is activated )
 - Guarana
   - cyan
 - Fox
